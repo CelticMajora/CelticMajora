@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at Betterment doing flutter development
+- 🌱 I’m currently learning `flutter_driver` best practices
+
+I've put up many of my projects from university. Future refactoring exercises.
+
 <!--
 **CelticMajora/CelticMajora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
