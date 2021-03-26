@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at Betterment doing flutter development
-- 🌱 I’m currently learning `flutter_driver` best practices
+- 🌱 I’m currently learning various flutter navigation and state management patterns I'm unfamiliar with
 
 I've put up many of my projects from university. Future refactoring exercises.
 
